@@ -1,1 +1,1 @@
-# AttendanceManagement.sql
+A basic SQL structure for an employee attendance system. This sets up three tables: one for admins, one for attendance records, and one for employee details. It's a simple foundation that'll let me manage employee info and track attendance. I know it needs more work on security and optimization before it's ready for real-world use, but it's a solid starting point for my project.
